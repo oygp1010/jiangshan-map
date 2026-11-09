@@ -297,4 +297,4 @@ hit.prefecture;                  // 默认为 null；加 --with-prefectures 导�
 **数据纠错**：发现年份、地点或描述有误，请[提交纠错 issue](https://github.com/DeanChensj/jiangshan-map/issues/new?template=data-error.yml)，最好附上出处。
 
 Copyright © 2026 DeanChensj。除上文注明的例外，采用 GPL-3.0（见 [LICENSE](LICENSE)）
-这是我的学习副本。
+  这是我的学习副本。
